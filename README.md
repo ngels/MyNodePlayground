@@ -1,4 +1,4 @@
-# Getting start can be sometimes overwhelming.
+Getting start can be sometimes overwhelming.
 
 It can easily turn to a frustrating process when it comes to choose:
 
@@ -15,5 +15,7 @@ This repo intend to help you understand what you need to get started a node.js a
 - npm install
 - npm run start
 
-# doc
+# documentation 
+Click *[here](https://pamylucienngelz.medium.com/build-and-understand-a-node-js-production-like-api-in-12-commands-e9471b59c65b)* for more.
 
+ 
